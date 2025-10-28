@@ -8,5 +8,6 @@ public class Demo {
 	public void prac()
 	{
 		System.out.println("Git Practice");
+		System.out.println("New commit");
 	}
 }
