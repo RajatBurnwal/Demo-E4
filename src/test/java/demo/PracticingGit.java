@@ -9,5 +9,6 @@ public class PracticingGit {
 	{
 		System.out.println("Pushing changes to GITHUB");
 		System.out.println("Pushing through branch ATE");
+		System.out.println("New updates from ATE branch");
 	}
 }
