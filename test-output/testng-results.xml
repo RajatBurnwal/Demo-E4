@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-28T11:30:24 IST" name="Default suite" finished-at="2025-10-28T11:30:24 IST" duration-ms="79">
+  <suite started-at="2025-10-29T11:28:59 IST" name="Default suite" finished-at="2025-10-29T11:28:59 IST" duration-ms="79">
     <groups>
     </groups>
-    <test started-at="2025-10-28T11:30:24 IST" name="Default test" finished-at="2025-10-28T11:30:24 IST" duration-ms="79">
-      <class name="demo.Demo">
-        <test-method signature="prac()[pri:0, instance:demo.Demo@3eb25e1a]" started-at="2025-10-28T11:30:24 IST" name="prac" finished-at="2025-10-28T11:30:24 IST" duration-ms="15" status="PASS">
+    <test started-at="2025-10-29T11:28:59 IST" name="Default test" finished-at="2025-10-29T11:28:59 IST" duration-ms="79">
+      <class name="demo.PracticingGit">
+        <test-method signature="m2()[pri:0, instance:demo.PracticingGit@3eb25e1a]" started-at="2025-10-29T11:28:59 IST" name="m2" finished-at="2025-10-29T11:28:59 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- prac -->
-      </class> <!-- demo.Demo -->
+        </test-method> <!-- m2 -->
+      </class> <!-- demo.PracticingGit -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
