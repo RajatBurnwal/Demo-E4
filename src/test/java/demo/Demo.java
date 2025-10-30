@@ -9,6 +9,7 @@ public class Demo {
 	{
 		System.out.println("Git Practice");
 		System.out.println("New commit");
+		System.out.println("Practicing Git Conflict from ATE");
 		System.out.println("Practicing Git Conflict from Framework engineer");
 	}
 }
